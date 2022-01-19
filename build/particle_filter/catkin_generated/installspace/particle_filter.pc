@@ -1,0 +1,8 @@
+prefix=/home/love/Documents/localization_ws/install
+
+Name: particle_filter
+Description: Description of particle_filter
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lparticle_filter
+Requires: roscpp rospy std_msgs
