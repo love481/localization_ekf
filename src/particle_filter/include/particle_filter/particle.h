@@ -1,6 +1,7 @@
 /*
  *Author:Love Panta
  *Date:20/09/2021
+ *email:075bei016.love@pcampus.edu.np
  */
 #pragma once
 #ifndef PARTICLE_H_
